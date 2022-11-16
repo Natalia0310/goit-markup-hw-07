@@ -1090,7 +1090,7 @@ ul {
   color: var(--accent-color);
 }
 
-.hero__container {
+.hero {
   background-color: var(--dark-color);
   max-width: 1600px;
   text-align: center;
@@ -1225,6 +1225,7 @@ ul {
 
 .team {
   background-color: var(--secondary-white-color);
+  padding: 94px 0;
 }
 
 .team__title {
